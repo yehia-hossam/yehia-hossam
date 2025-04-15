@@ -3,9 +3,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Next.js & TypeScript & React.js**
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS**
 
 - 📫 How to reach me **yehiahossamdev@gmail.com**
 
