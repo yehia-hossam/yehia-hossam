@@ -1,25 +1,6 @@
 <h1 align="center">Hey 👋 I'm Yehia Hossam</h1>
 <h3 align="center">💻 FrontEnd Developer | Passionate about Clean UI/UX</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Gif" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I+build+clean+and+modern+UIs.;Frontend+%7C+React+%7C+Next.js;Code.+Design.+Repeat."/>
-</p>
-
----
-
-- 📫 Reach me at: **yehiahossamdev@gmail.com**
-- 🔗 [Check my Portfolio](https://yehia-hossam.github.io/Portfolio/)
-
- <p align="center">
-  <a href="https://drive.google.com/file/d/1mvmpkS6JZJmdHxkDmKTGj__nBixJqRXf/view" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 Tech Stack
@@ -53,6 +34,27 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I+build+clean+and+modern+UIs.;Frontend+%7C+React+%7C+Next.js;Code.+Design.+Repeat."/>
+</p>
+
+---
+
+- 📫 Reach me at: **yehiahossamdev@gmail.com**
+- 🔗 [Check my Portfolio](https://yehia-hossam.github.io/Portfolio/)
+
+ <p align="center">
+  <a href="https://drive.google.com/file/d/1mvmpkS6JZJmdHxkDmKTGj__nBixJqRXf/view" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
+  </a>
+</p>
+
+
 
 ##  GitHub Stats
 
