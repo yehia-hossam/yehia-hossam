@@ -49,7 +49,7 @@
 - 🔗 [Check my Portfolio](https://yehia-hossam.github.io/Portfolio/)
 
  <p align="center">
-  <a href="https://drive.google.com/drive/my-drive" target="_blank">
+  <a href="https://drive.google.com/file/d/1GTLzZoL9ula3rX_5Jv9BPP5lCfvC_IbH/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
   </a>
 </p>
