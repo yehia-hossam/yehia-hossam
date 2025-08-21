@@ -46,10 +46,10 @@
 ---
 
 - 📫 Reach me at: **yehiahossamdev@gmail.com**
-- 🔗 [Check my Portfolio](https://portfolio-one-bice-84.vercel.app/)
+- 🔗 [Check my Portfolio](https://portfolio-yehia-hossam.vercel.app/)
 
  <p align="center">
-  <a href="https://drive.google.com/file/d/1GTLzZoL9ula3rX_5Jv9BPP5lCfvC_IbH/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1PvOkaWvKLoQzv_lerzU7qmFK2MCns6OP/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
   </a>
 </p>
