@@ -6,32 +6,94 @@
 ## 🚀 Tech Stack
 
 ###  Languages & Frameworks
+<h3 align="left">🏷 Languages and Tools:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
+      <br>SASS
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="Webpack" />
+      <br>Webpack
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="116">
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="65" height="65" alt="Shadcn" />
+      <br>Shadcn
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
+      <br>Material UI
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-###  Styling
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-###  Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
 
 ---
 ##  GitHub Stats
