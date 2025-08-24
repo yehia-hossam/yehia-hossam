@@ -6,7 +6,6 @@
 ## 🚀 Tech Stack
 
 ###  Languages & Frameworks
-<h3 align="left">🏷 Languages and Tools:</h3>
 <table align="center">
   <tr>
     <td align="center" width="116">
