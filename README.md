@@ -48,11 +48,8 @@
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
       <br>GraphQL
     </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
   </tr>
+  
   <tr>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
@@ -89,6 +86,10 @@
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
       <br>Material UI
+    </td>
+       <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
 </table>
