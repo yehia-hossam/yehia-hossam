@@ -34,10 +34,11 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl3MDAxYm1xdDh4Y25zNWxxOGZ6YzlmeG1yM2k0MXM3aG9jMGJpOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Gif"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I+build+clean+and+modern+UIs.;Frontend+%7C+React+%7C+Next.js;Code.+Design.+Repeat."/>
@@ -59,11 +60,12 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
