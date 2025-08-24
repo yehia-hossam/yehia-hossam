@@ -34,6 +34,24 @@
 </p>
 
 ---
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+
+
+
+
+
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RxMHBqaW53YTY4ODZ0eWQ1bmdsdWtuNmJ3OGswcTBtbGFyMmZ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="600" height="300"/>
 </p>
@@ -58,18 +76,7 @@
 
 
 
-##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ##  Connect with Me
 
