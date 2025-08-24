@@ -90,10 +90,6 @@
         <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
       <br>Material UI
     </td>
-      <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
-      <br>SASS
-    </td>
   </tr>
 </table>
 
