@@ -9,6 +9,10 @@
 <table align="center">
   <tr>
     <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="React" />
+      <br>JavaScript
+    </td>
+     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
       <br>React
     </td>
@@ -24,9 +28,9 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
       <br>Tailwind CSS
     </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
-      <br>SASS
+     <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="React" />
+      <br>Bootstrap
     </td>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
@@ -79,16 +83,16 @@
       <br>Vercel
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="116">
         <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="65" height="65" alt="Shadcn" />
       <br>Shadcn
     </td>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
       <br>Material UI
+    </td>
+      <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
+      <br>SASS
     </td>
   </tr>
 </table>
