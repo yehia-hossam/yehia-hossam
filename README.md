@@ -44,10 +44,7 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
-      <br>GraphQL
-    </td>
+
   </tr>
   
   <tr>
@@ -58,10 +55,6 @@
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
       <br>GitHub
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="Webpack" />
-      <br>Webpack
     </td>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
