@@ -35,7 +35,7 @@
 
 ---
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZjOHlndzF4OW13NmNxbHQ5dWI5MnlvMXM5ZnNob2thOXIzbnZyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RxMHBqaW53YTY4ODZ0eWQ1bmdsdWtuNmJ3OGswcTBtbGFyMmZ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="600" height="300"/>
 </p>
 
 
