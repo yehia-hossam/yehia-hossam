@@ -6,7 +6,7 @@
 ## 🚀 Tech Stack
 
 ###  Languages & Frameworks
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="React" />
@@ -85,7 +85,7 @@
       <br>Docker
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ---
