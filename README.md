@@ -5,7 +5,6 @@
 
 ## 🚀 Tech Stack
 
-###  Languages & Frameworks
 <!-- <table align="center">
   <tr>
     <td align="center" width="116">
