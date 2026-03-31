@@ -86,7 +86,9 @@
   </tr>
 </table> -->
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;Next.js+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 ---
 ##  GitHub Stats
 
