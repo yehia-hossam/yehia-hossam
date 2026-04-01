@@ -5,15 +5,15 @@
 </p>
 
 ##  GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=outrun&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=outrun&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=outrun&hide_border=true" />
+</p>
+
 
 ---
 
