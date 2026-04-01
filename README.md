@@ -1,11 +1,47 @@
-<!-- <h1 align="center">Hey 👋 I'm Yehia Hossam</h1>
-<h3 align="center">💻 FrontEnd Developer | Passionate about Clean UI/UX</h3> -->
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;Next.js+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true" />
+</p> 
+
+---
 
 
 
 
 
-<!-- <table align="center">
+
+
+
+---
+
+- 📫 Reach me at: **yehiahossamdev@gmail.com**
+- 🔗 [Check my Portfolio](https://endearing-squirrel-3c86dd.netlify.app/)
+
+ <p align="center">
+  <a href="https://drive.google.com/file/d/1ji_FIET3UsSJ2RQIsAXmm-6YDF7nGuUi/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
+  </a>
+</p>
+
+
+
+
+
+
+
+ <table align="center">
   <tr>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="React" />
@@ -84,45 +120,7 @@
       <br>Docker
     </td>
   </tr>
-</table> -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;Next.js+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</p>
----
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-
-
-
-
-
-
-
----
-
-- 📫 Reach me at: **yehiahossamdev@gmail.com**
-- 🔗 [Check my Portfolio](https://endearing-squirrel-3c86dd.netlify.app/)
-
- <p align="center">
-  <a href="https://drive.google.com/file/d/1ji_FIET3UsSJ2RQIsAXmm-6YDF7nGuUi/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
-  </a>
-</p>
-
-
-
+</table> 
 
 
 ##  Connect with Me
