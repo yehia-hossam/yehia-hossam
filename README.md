@@ -40,7 +40,7 @@
 
 
 
-
+<!--
  <table align="center">
   <tr>
     <td align="center" width="116">
@@ -121,6 +121,7 @@
     </td>
   </tr>
 </table> 
+-->
 
 
 ##  Connect with Me
