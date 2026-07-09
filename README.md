@@ -20,9 +20,6 @@
 ---
 
 
-
----
-
 ##  GitHub Analytics
 
 <div align="center">
@@ -34,22 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5A00" />
 </div>
 
----
-
-
----
 
 
 
-<div align="center">
 
-###  Weekly Development Breakdown
 
-<!-- This section auto-updates with WakaTime -->
-
-```text
-React.js      ██████████████████████▓░░░   85%
-TypeScript    ████████████████████░░░░░░   75%
-Next.js       ████████████████████░░░░░░   80%
-Tailwind CSS  ██████████████████░░░░░░░░   75%
-Node.js       ████████████████░░░░░░░░░░   60%
