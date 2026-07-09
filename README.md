@@ -24,20 +24,6 @@
 
 
 
----
-
-- 📫 Reach me at: **yehiahossamdev@gmail.com**
-- 🔗 [Check my Portfolio](https://endearing-squirrel-3c86dd.netlify.app/)
-
- <p align="center">
-  <a href="https://drive.google.com/file/d/1ji_FIET3UsSJ2RQIsAXmm-6YDF7nGuUi/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" />
-  </a>
-</p>
-
-
-
-
 
 
 <!--
