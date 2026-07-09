@@ -1,125 +1,84 @@
+<div align="center">
+  
+# Yehia Hossam
+### Full-Stack Developer | Modern Serverless Architecture
 
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Now-FF5A00?style=for-the-badge&logo=vercel&logoColor=white)](https://main-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehia-hossam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehiahossamdev/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_yehia)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehiahossamdev@gmail.com)
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;Next.js+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5A00&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Experiences;Digital+Universe+Creator+%F0%9F%8C%8C" alt="Typing SVG" />
 </p>
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=outrun&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=outrun&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=outrun&hide_border=true" />
-</p>
-
+</div>
 
 ---
 
 
 
+---
+
+##  GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5A00&icon_color=FFC857" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true&background=0D1117&stroke=FF5A00&ring=FF5A00&fire=FFC857" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-hossam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5A00" />
+</div>
+
+---
+
+
+---
+
+##  Professional Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| **Jan 2024 - Present** | Freelance Frontend Developer | Remotely |
+| **Feb 2025 - Present** | Frontend Developer | Startup Organization |
+| **Aug 2025 - Present** | Intern → Junior Developer | US-Based Company (Remote) |
+
+---
 
 
 
+---
 
+##  Let's Connect!
 
+I'm always open to exciting opportunities, collaborations, or just a tech chat!
 
+<div align="center">
 
-<!--
- <table align="center">
-  <tr>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="React" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
-      <br>Tailwind CSS
-    </td>
-     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="React" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehiahossamdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A00?style=for-the-badge&logo=vercel&logoColor=white)](https://main-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehiahossamdev@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_yehia)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zPBrwNWcb)
 
-  </tr>
-  
-  <tr>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="116">
-        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="65" height="65" alt="Shadcn" />
-      <br>Shadcn
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
-      <br>Material UI
-    </td>
-       <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table> 
--->
+</div>
 
+---
 
-##  Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yehia-hossam-0215632b1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yehiahossamdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://main-portfolio-git-main-yehia-hossams-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/28652070/yehia-hossam"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-</p>
+###  Weekly Development Breakdown
 
+<!-- This section auto-updates with WakaTime -->
 
-----
-
-
+```text
+React.js      ██████████████████████▓░░░   85%
+TypeScript    ████████████████████░░░░░░   75%
+Next.js       ████████████████████░░░░░░   80%
+Tailwind CSS  ██████████████████░░░░░░░░   75%
+Node.js       ████████████████░░░░░░░░░░   60%
