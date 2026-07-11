@@ -32,7 +32,9 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yehia-hossam&theme=radical&hide_border=true&bg_color=0D1117&color=FF5A00&line=FF5A00&point=FFC857" alt="Activity Graph" />
+</div>
 
 
 
