@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5A00&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Experiences;Digital+Universe+Creator+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5A00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%26+Next.js+Specialist;JavaScript+%26+TypeScript;Node.js%2C+Express+%26+Databases;Building+Scalable+Web+Experiences" alt="Typing SVG" />
 </p>
 
 </div>
