@@ -1,13 +1,14 @@
 <div align="center">
   
-# Yehia Hossam
+# ⚡Yehia Hossam⚡
+
 ### Full-Stack Developer | Modern Serverless Architecture
 
 
-[![Portfolio](https://img.shields.io/badge/_Portfolio-Live_Now-FF5A00?style=for-the-badge&logo=vercel&logoColor=white)](https://main-portfolio-git-main-yehia-hossams-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehiahossamdev/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_yehia)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehiahossamdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A00?style=for-the-badge&logo=vercel&logoColor=white)](https://main-portfolio-git-main-yehia-hossams-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF5A00)](https://www.linkedin.com/in/yehiahossamdev/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FF5A00)](https://x.com/dev_yehia/)
+[![Email](https://img.shields.io/badge/Email-FF5A00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehiahossamdev@gmail.com)
 
 ---
 
