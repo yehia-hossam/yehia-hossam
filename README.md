@@ -20,21 +20,8 @@
 
 ---
 
+## GitHub Analytics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true)
 
-##  GitHub Analytics
-
-<div align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true&background=0D1117&stroke=FF5A00&ring=FF5A00&fire=FFC857" height="170" />
-</div>
-
-<br/>
-
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yehia-hossam&theme=radical&hide_border=true&bg_color=0D1117&color=FF5A00&line=FF5A00&point=FFC857" alt="Activity Graph" width="100%" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true&background=0D1117)
