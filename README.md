@@ -21,7 +21,12 @@
 ---
 
 ## GitHub Analytics
+<div align="center">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
