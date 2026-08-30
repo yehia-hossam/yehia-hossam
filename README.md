@@ -26,7 +26,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yehia-hossam&theme=radical&hide_border=true&background=0D1117)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yehia-hossam&theme=yellowdark" alt="GitHub Streak" /></a>
 </div>
 
