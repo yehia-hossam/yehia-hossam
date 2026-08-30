@@ -24,7 +24,8 @@
 <div align="center">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=yehia-hossam&show_icons=true&theme=radical&hide_border=true)
+
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yehia-hossam&theme=rust-ferris-dark" alt="GitHub Streak" /></a></div>
 
