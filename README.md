@@ -2,8 +2,7 @@
   
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpYm12NGpibzV5bjFrdWd1N29ob3J2NG5hdWx3eHZxbzU1ODJwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pi1X3ejDl9S3epzwEk/giphy.gif" width="35" alt="Coding" /> Yehia Hossam <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpYm12NGpibzV5bjFrdWd1N29ob3J2NG5hdWx3eHZxbzU1ODJwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pi1X3ejDl9S3epzwEk/giphy.gif" width="35" alt="Coding" />
 
-### Full-Stack Developer | Modern Serverless Architecture
-
+### Full-Stack Developer | Next.js & Serverless | Building AI-Integrated Web Apps
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5A00?style=for-the-badge&logo=vercel&logoColor=white)](https://main-portfolio-git-main-yehia-hossams-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF5A00)](https://www.linkedin.com/in/yehiahossamdev/)
