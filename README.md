@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpYm12NGpibzV5bjFrdWd1N29ob3J2NG5hdWx3eHZxbzU1ODJwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pi1X3ejDl9S3epzwEk/giphy.gif" width="35" alt="Coding" /> Yehia Hossam <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpYm12NGpibzV5bjFrdWd1N29ob3J2NG5hdWx3eHZxbzU1ODJwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pi1X3ejDl9S3epzwEk/giphy.gif" width="35" alt="Coding" />
 
@@ -19,7 +19,7 @@
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics.
 <div align="center">
 
 
