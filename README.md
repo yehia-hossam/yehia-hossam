@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=100000&color=FF5A00&center=true&vCenter=true&width=700&height=80&lines=Yehia+Hossam" alt="Yehia Hossam" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=100000&color=FF5A00&center=true&vCenter=true&width=700&height=80&lines=Yehia+Hossam</>" alt="Yehia Hossam" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=C9C9C9&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer;Next.js+%26+Serverless+Specialist;Building+AI-Integrated+Web+Apps" alt="Roles" />
 
