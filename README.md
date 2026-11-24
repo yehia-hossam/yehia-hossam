@@ -134,13 +134,4 @@ I'm a full-stack developer who builds fast, scalable and well-designed web appli
 
 ---
 
-## Contact
 
-<div align="center">
-
-Have a project in mind? Let's talk.
-
-<a href="mailto:yehiahossamdev@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-FF5A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/></a>
-<a href="https://yehia-creative-dev.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=FF5A00" alt="View portfolio"/></a>
-
-</div>
